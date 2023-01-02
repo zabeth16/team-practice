@@ -1,0 +1,1 @@
+document.querySelector(".user-62").textContent="芝麻主席";
